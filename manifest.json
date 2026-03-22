@@ -1,0 +1,21 @@
+{
+  "name": "KOL JUICE",
+  "short_name": "KolJuice",
+  "description": "Jus naturels frais et faits maison",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "image/PTH.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "image/PTH.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
